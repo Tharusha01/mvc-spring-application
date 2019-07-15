@@ -80,9 +80,9 @@
             <button id="deleteBtn" type="submit" class="btn btn-primary">Delete</button>
         </form:form>
 
-        <form method="POST" action="/deleteTut">
+       <%-- <form method="POST" action="/deleteTut">
 
-        </form>
+        </form>--%>
         <!--<p class = "pitemSyle">{{ dvdTotal }} DVD's {{messageDVD}}</p>-->
         <%--<form action="deleteData" method="post">
 
